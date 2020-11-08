@@ -61,18 +61,18 @@ public class Solution {
 
     public static void main(String[] args) {
 
-//        char[][] board =
-//                {
-//                        {'A', 'B', 'C', 'E'},
-//                        {'S', 'F', 'C', 'S'},
-//                        {'A', 'D', 'E', 'E'}
-//                };
-//
-//        String word = "ABCCED";
+        char[][] board =
+                {
+                        {'A', 'B', 'C', 'E'},
+                        {'S', 'F', 'C', 'S'},
+                        {'A', 'D', 'E', 'E'}
+                };
+
+        String word = "ABCCED";
 
 
-        char[][] board = {{'a', 'b'}};
-        String word = "ba";
+//        char[][] board = {{'a', 'b'}};
+//        String word = "ba";
         Solution solution = new Solution();
         boolean exist = solution.exist(board, word);
         System.out.println(exist);
