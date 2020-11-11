@@ -1,6 +1,4 @@
-package Array.Leetcode80;
-
-import java.util.Arrays;
+package Array.Leetcode80.Solution1;
 
 /**
  * @author ：hodor007
