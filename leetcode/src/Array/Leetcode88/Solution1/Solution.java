@@ -1,4 +1,4 @@
-package Array.Leetcode88;
+package Array.Leetcode88.Solution1;
 
 import java.util.Arrays;
 
