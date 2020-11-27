@@ -1,4 +1,4 @@
-package Tree.Leetcode104;
+package Tree.Leetcode104.Solution1;
 
 import java.util.LinkedList;
 
