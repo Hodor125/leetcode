@@ -5,6 +5,7 @@ import com.sun.jmx.snmp.SnmpNull;
 import javax.swing.tree.TreeNode;
 
 /**
+ * 指针节省空间
  * @author ：hodor007
  * @date ：Created in 2020/12/2
  * @description ：
