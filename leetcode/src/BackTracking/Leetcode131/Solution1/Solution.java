@@ -1,4 +1,4 @@
-package BackTracking.Leetcode131;
+package BackTracking.Leetcode131.Solution1;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
