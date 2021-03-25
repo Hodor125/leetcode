@@ -1,4 +1,4 @@
-package Tree.SwordOffer54;
+package Tree.SwordOffer54.Solution1;
 
 public class Solution {
     int k,res;
